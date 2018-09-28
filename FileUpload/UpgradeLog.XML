@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileUpload">
+</Property><Property Name="Solution File" Value="D:\HomeWealthWeb\FileUpload\FileUpload.sln">
+</Property><Property Name="Date" Value="Friday, February 05, 2010">
+</Property><Property Name="Time" Value="23:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileUpload.sln" Description="File successfully backed up as D:\HomeWealthWeb\FileUpload\Backup\FileUpload.sln">
+</Event><Event ErrorLevel="1" Project="FileUpload" Source="http://localhost/FileUpload/FileUpload.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="http://localhost/FileUpload/FileUpload.csproj" Source="http://localhost/FileUpload/FileUpload.csproj" Description="ERROR: Failed to back up Web site http://localhost/FileUpload/FileUpload.csproj">
+</Event><Event ErrorLevel="0" Project="" Source="FileUpload.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileUpload.sln" Description="Converted">
+</Event></UpgradeLog>

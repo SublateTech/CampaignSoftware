@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FileUpload", "http://localhost/FileUpload/FileUpload.csproj", "{80E43098-CC16-48BF-81DD-1574ECD78CE6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E43098-CC16-48BF-81DD-1574ECD78CE6}.Debug|Default.ActiveCfg = Debug|.NET
+		{80E43098-CC16-48BF-81DD-1574ECD78CE6}.Debug|Default.Build.0 = Debug|.NET
+		{80E43098-CC16-48BF-81DD-1574ECD78CE6}.Release|Default.ActiveCfg = Release|.NET
+		{80E43098-CC16-48BF-81DD-1574ECD78CE6}.Release|Default.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

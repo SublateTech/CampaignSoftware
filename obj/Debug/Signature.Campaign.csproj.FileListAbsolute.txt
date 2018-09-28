@@ -1,0 +1,114 @@
+D:\Abundantfunds.net\Test\bin\Signature.Campaign.dll
+D:\Abundantfunds.net\Test\bin\Signature.Campaign.pdb
+D:\Abundantfunds.net\Test\bin\CrystalDecisions.Web.dll
+D:\Abundantfunds.net\Test\bin\Infragistics2.Web.v9.1.dll
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.Misc.v9.1.dll
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.Shared.v9.1.dll
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.UltraWebGrid.v9.1.dll
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.WebCombo.v9.1.dll
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.WebDataInput.v9.1.dll
+D:\Abundantfunds.net\Test\bin\Signature.Classes.dll
+D:\Abundantfunds.net\Test\bin\Signature.Data.dll
+D:\Abundantfunds.net\Test\bin\Signature.Web.Controls.dll
+D:\Abundantfunds.net\Test\bin\Signature.Forms.dll
+D:\Abundantfunds.net\Test\bin\Signature.SpellChecker.dll
+D:\Abundantfunds.net\Test\bin\Signature.Vista.dll
+D:\Abundantfunds.net\Test\bin\Microsoft.Office.Interop.Word.dll
+D:\Abundantfunds.net\Test\bin\Signature.UPS.dll
+D:\Abundantfunds.net\Test\bin\XPTable.dll
+D:\Abundantfunds.net\Test\bin\Signature.Reports.dll
+D:\Abundantfunds.net\Test\bin\Signature.Zonal.dll
+D:\Abundantfunds.net\Test\bin\Microsoft.Office.Interop.Outlook.dll
+D:\Abundantfunds.net\Test\bin\Signature.Card.dll
+D:\Abundantfunds.net\Test\bin\Signature.Windows.Forms.dll
+D:\Abundantfunds.net\Test\bin\Signature.Forms.pdb
+D:\Abundantfunds.net\Test\bin\Signature.SpellChecker.pdb
+D:\Abundantfunds.net\Test\bin\Signature.Vista.pdb
+D:\Abundantfunds.net\Test\bin\Microsoft.Office.Interop.Word.xml
+D:\Abundantfunds.net\Test\bin\Signature.UPS.pdb
+D:\Abundantfunds.net\Test\bin\Signature.Web.Controls.pdb
+D:\Abundantfunds.net\Test\bin\Infragistics2.Web.v9.1.xml
+D:\Abundantfunds.net\Test\bin\XPTable.pdb
+D:\Abundantfunds.net\Test\bin\Signature.Data.pdb
+D:\Abundantfunds.net\Test\bin\Signature.Reports.pdb
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.WebCombo.v9.1.xml
+D:\Abundantfunds.net\Test\bin\Signature.Zonal.pdb
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.Shared.v9.1.xml
+D:\Abundantfunds.net\Test\bin\Microsoft.Office.Interop.Outlook.xml
+D:\Abundantfunds.net\Test\bin\Signature.Card.pdb
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.UltraWebGrid.v9.1.xml
+D:\Abundantfunds.net\Test\bin\Infragistics2.WebUI.WebDataInput.v9.1.xml
+D:\Abundantfunds.net\Test\bin\Signature.Windows.Forms.pdb
+D:\Abundantfunds.net\Test\bin\Signature.Classes.pdb
+D:\Abundantfunds.net\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Abundantfunds.net\Test\obj\Debug\Signature.Campaign.dll.licenses
+D:\Abundantfunds.net\Test\obj\Debug\Signature.Campaign.dll
+D:\Abundantfunds.net\Test\obj\Debug\Signature.Campaign.pdb
+D:\Adobe 2008\CampaignSoftware\obj\Debug\ResolveAssemblyReference.cache
+D:\Adobe 2008\CampaignSoftware\obj\Debug\Signature.Campaign.dll.licenses
+D:\Adobe 2008\CampaignSoftware\obj\Debug\Signature.Campaign.dll
+D:\Adobe 2008\CampaignSoftware\obj\Debug\Signature.Campaign.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Campaign.pdb
+D:\Adobe 2008\CampaignSoftware\bin\CrystalDecisions.Web.dll
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.Web.v9.1.dll
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.Misc.v9.1.dll
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.Shared.v9.1.dll
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.UltraWebGrid.v9.1.dll
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.WebCombo.v9.1.dll
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.WebDataInput.v9.1.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Classes.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Data.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Web.Controls.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Forms.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.SpellChecker.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Vista.dll
+D:\Adobe 2008\CampaignSoftware\bin\Microsoft.Office.Interop.Word.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.UPS.dll
+D:\Adobe 2008\CampaignSoftware\bin\XPTable.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Reports.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Zonal.dll
+D:\Adobe 2008\CampaignSoftware\bin\Microsoft.Office.Interop.Outlook.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Windows.Forms.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Card.dll
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Forms.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.SpellChecker.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Vista.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Microsoft.Office.Interop.Word.xml
+D:\Adobe 2008\CampaignSoftware\bin\Signature.UPS.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Web.Controls.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.Web.v9.1.xml
+D:\Adobe 2008\CampaignSoftware\bin\XPTable.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Data.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Reports.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.WebCombo.v9.1.xml
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Zonal.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.Shared.v9.1.xml
+D:\Adobe 2008\CampaignSoftware\bin\Microsoft.Office.Interop.Outlook.xml
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Windows.Forms.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Card.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.UltraWebGrid.v9.1.xml
+D:\Adobe 2008\CampaignSoftware\bin\Infragistics2.WebUI.WebDataInput.v9.1.xml
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Classes.pdb
+D:\Signature.com\SigData\Signature.Campaign.pdb
+D:\Adobe 2008\CampaignSoftware\bin\Signature.Campaign.dll
+D:\Adobe 2008\CampaignSoftware\bin\itextsharp.dll
+D:\Campaign Software\bin\Signature.Campaign.pdb
+D:\Campaign Software\CampaignSoftware\bin\Signature.Campaign.dll
+D:\Campaign Software\CampaignSoftware\bin\Signature.Campaign.pdb
+D:\Campaign Software\CampaignSoftware\bin\CrystalDecisions.Web.dll
+D:\Campaign Software\CampaignSoftware\bin\mysql.data.dll
+D:\Campaign Software\CampaignSoftware\bin\Signature.Card.dll
+D:\Campaign Software\CampaignSoftware\bin\Signature.Classes.dll
+D:\Campaign Software\CampaignSoftware\bin\Signature.Reports.dll
+D:\Campaign Software\CampaignSoftware\bin\Signature.Web.Controls.dll
+D:\Campaign Software\CampaignSoftware\bin\Microsoft.Office.Interop.Word.dll
+D:\Campaign Software\CampaignSoftware\bin\Signature.Zonal.dll
+D:\Campaign Software\CampaignSoftware\bin\Microsoft.Office.Interop.Word.xml
+D:\Campaign Software\CampaignSoftware\bin\Signature.Web.Controls.pdb
+D:\Campaign Software\CampaignSoftware\bin\Signature.Data.pdb
+D:\Campaign Software\CampaignSoftware\bin\Signature.Reports.pdb
+D:\Campaign Software\CampaignSoftware\bin\Signature.Classes.pdb
+D:\Campaign Software\CampaignSoftware\obj\Debug\ResolveAssemblyReference.cache
+D:\Campaign Software\CampaignSoftware\obj\Debug\Signature.Campaign.dll.licenses
+D:\Campaign Software\CampaignSoftware\obj\Debug\Signature.Campaign.dll
+D:\Campaign Software\CampaignSoftware\obj\Debug\Signature.Campaign.pdb
